@@ -1,6 +1,6 @@
-# 🚀 Dogecoin Price Prediction Using SARIMAX Time Series Forecasting
+#  Dogecoin Price Prediction Using SARIMAX Time Series Forecasting
 
-## 📌 Project Overview
+##  Project Overview
 
 Cryptocurrency markets are highly volatile, making accurate price prediction a challenging task. This project focuses on forecasting **Dogecoin (DOGE)** prices using historical market data and a **SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous Variables)** model.
 
@@ -18,7 +18,7 @@ The primary goal is to analyze historical Dogecoin price movements and predict f
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze historical Dogecoin market data.
 * Understand relationships between market variables.
@@ -30,7 +30,7 @@ The primary goal is to analyze historical Dogecoin price movements and predict f
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The dataset contains historical Dogecoin trading information obtained from Yahoo Finance.
 
@@ -48,7 +48,7 @@ The dataset contains historical Dogecoin trading information obtained from Yahoo
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -61,7 +61,7 @@ The dataset contains historical Dogecoin trading information obtained from Yahoo
 
 ---
 
-## 🔄 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 
@@ -129,7 +129,7 @@ Selected features used for forecasting:
 
 ---
 
-## 🤖 Model Development
+##  Model Development
 
 ### SARIMAX Model
 
@@ -161,7 +161,7 @@ Where:
 
 ---
 
-## 📈 Results
+##  Results
 
 The SARIMAX model was trained on historical observations and used to generate forecasts.
 
@@ -177,7 +177,7 @@ The model successfully captured short-term trends in Dogecoin price movements.
 
 ---
 
-## 📉 Visualizations
+##  Visualizations
 
 The project includes:
 
@@ -190,7 +190,7 @@ These visualizations help understand market behavior and evaluate forecasting pe
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Dogecoin-Price-Prediction/
@@ -203,7 +203,7 @@ Dogecoin-Price-Prediction/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 Clone the repository:
 
@@ -231,7 +231,7 @@ jupyter notebook
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```text
 pandas
@@ -245,7 +245,7 @@ jupyter
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 * Dogecoin prices exhibit strong relationships between Open, High, Low, and Close values.
 * Feature engineering improves forecasting capability.
@@ -255,7 +255,7 @@ jupyter
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Small training dataset used in forecasting.
 * Limited model evaluation metrics.
@@ -264,7 +264,7 @@ jupyter
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Implement ARIMA and Prophet models.
 * Compare performance with LSTM networks.
@@ -274,7 +274,7 @@ jupyter
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates practical knowledge in:
 
@@ -288,7 +288,7 @@ This project demonstrates practical knowledge in:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Zaid Arif Saifan**
 *Financial Enginneer*
